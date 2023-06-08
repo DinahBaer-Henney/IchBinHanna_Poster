@@ -1,6 +1,7 @@
 # IchBinHanna_Poster
 
-#### letztes Update/last update: 15/05/2023
+#### letztes Update/last update: 08/06/2023
+#### letzte Änderung/last change: *Anpassung zum Referentenentwurf vom 06/06/2023 | Adaptation to the draft bill of 06/06/2023*
 
 ## Deutsch
 
